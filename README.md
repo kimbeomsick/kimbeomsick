@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <!-- 뱃지 입력 -->
-![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=vue.js)
-![vuetify](https://img.shields.io/badge/-vuetify-blue?style=for-the-badge&logo=vuetify)
-![bootstrap](https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=vue.js?logoColor=white)
+![vuetify](https://img.shields.io/badge/-vuetify-blue?style=for-the-badge&logo=vuetify?logoColor=white)
+![bootstrap](https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap?logoColor=white)
 <br>
-![java](https://img.shields.io/badge/-java-brown?style=for-the-badge&logo=JAVA)
-![spring](https://img.shields.io/badge/-spring-green?style=for-the-badge&logo=spring)
-![springboot](https://img.shields.io/badge/-springboot-yellowgreen?style=for-the-badge&logo=springboot)    
+![java](https://img.shields.io/badge/-java-brown?style=for-the-badge&logo=JAVA?logoColor=white)
+![spring](https://img.shields.io/badge/-spring-green?style=for-the-badge&logo=spring?logoColor=white)
+![springboot](https://img.shields.io/badge/-springboot-yellowgreen?style=for-the-badge&logo=springboot?logoColor=white)    
 
 ## About me 💬
 
