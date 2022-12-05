@@ -1,5 +1,5 @@
 ### Hi there 👋
-<hr>
+
 <!-- 뱃지 입력 -->
 ![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=vue.js)
 ![vuetify](https://img.shields.io/badge/-vuetify-blue?style=for-the-badge&logo=vuetify)
@@ -10,7 +10,7 @@
 ![springboot](https://img.shields.io/badge/-springboot-yellowgreen?style=for-the-badge&logo=springboot)    
 
 ## About me
-<hr>
+
 * i'm currently learning back-end skills
 
 <!-- 백준 랭크 -->
