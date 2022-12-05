@@ -7,18 +7,19 @@
 <br>
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=JAVA)
 ![spring](https://img.shields.io/badge/-spring-green?style=for-the-badge&logo=spring)
-![springboot](https://img.shields.io/badge/-springboot-yellowgreen?style=for-the-badge&logo=springboot)
+![springboot](https://img.shields.io/badge/-springboot-yellowgreen?style=for-the-badge&logo=springboot).    
 
  Rank<br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjatr)](https://solved.ac/rlaqjatr)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjatr)](https://solved.ac/rlaqjatr).     
 
 
 
-github state<br>
+
 <p>
+<span>github state</span> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+</p>.     
 
 
 
