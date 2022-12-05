@@ -24,13 +24,12 @@
 <!-- git 사용 현황-->
 <p>
 <span>⏱️ github state</span> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true&bg_color=011c2c,033053,033761title_color=000&text_color=000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compac">
   
  
 </p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
