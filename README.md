@@ -5,7 +5,7 @@
 ![vuetify](https://img.shields.io/badge/-vuetify-blue?style=for-the-badge&logo=vuetify)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap)
 <br>
-![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=JAVA)
+![java](https://img.shields.io/badge/-java-brown?style=for-the-badge&logo=JAVA)
 ![spring](https://img.shields.io/badge/-spring-green?style=for-the-badge&logo=spring)
 ![springboot](https://img.shields.io/badge/-springboot-yellowgreen?style=for-the-badge&logo=springboot)    
 
