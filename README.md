@@ -13,12 +13,14 @@
 
 * i'm currently learning back-end skills
 
+## Others
+
 <!-- 백준 랭크 -->
 🏅 Rank<br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjatr)](https://solved.ac/rlaqjatr)     
 
 
-## Others
+
 <!-- git 사용 현황-->
 <p>
 <span>⏱️ github state</span> <br>
