@@ -25,8 +25,8 @@
 <!-- git 사용 현황-->
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true&bg_color=011c2c,033053,033761&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true&bg_color=011c2c,033053,033761&title_color=fff&text_color=fff">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact">
 </p>
 
 
