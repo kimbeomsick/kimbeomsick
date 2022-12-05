@@ -2,10 +2,12 @@
 ---
 <!-- 뱃지 입력 -->
 ![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=vue.js)
-![vuetify](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge&logo=vuetify)
-![bootstrap](https://img.shields.io/badge/-vue.js-purple?style=for-the-badge&logo=bootstrap)
-
-
+![vuetify](https://img.shields.io/badge/-vuetify-blue?style=for-the-badge&logo=vuetify)
+![bootstrap](https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap)
+<br>
+![java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java)
+![spring](https://img.shields.io/badge/-spring-green?style=for-the-badge&logo=spring)
+![springboot](https://img.shields.io/badge/-green-red?style=for-the-badge&logo=springboot)
 
  Rank<br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjatr)](https://solved.ac/rlaqjatr)
