@@ -12,6 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
+https://img.shields.io/badge/-vue.js-green
+
 
 <!--
 **kimbeomsick/kimbeomsick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
