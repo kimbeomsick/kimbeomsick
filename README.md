@@ -1,11 +1,6 @@
 ## Hi there 👋
 
 <!-- 뱃지 입력 -->
-
-<p><img src="https://img.shields.io/badge/Visual Studio Code IDE: 1.69.2-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js: 2.6.14-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap: 4.6.1-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-</p>
 ![vue.js](https://img.shields.io/badge/-vue.js-white?style=for-the-badge&logo=vue.js&logoColor=white)
 ![vuetify](https://img.shields.io/badge/-vuetify-blue?style=for-the-badge&logo=vuetify&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
