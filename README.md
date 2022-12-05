@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!-- 뱃지 입력 -->
 ![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=vue.js)
@@ -9,19 +9,19 @@
 ![spring](https://img.shields.io/badge/-spring-green?style=for-the-badge&logo=spring)
 ![springboot](https://img.shields.io/badge/-springboot-yellowgreen?style=for-the-badge&logo=springboot)    
 
-## About me
+## About me 💬
 
 * i'm currently learning back-end skills
 
 <!-- 백준 랭크 -->
- Rank<br>
+🏅 Rank<br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjatr)](https://solved.ac/rlaqjatr)     
 
 
 
 <!-- git 사용 현황-->
 <p>
-<span>github state</span> <br>
+<span>⏱️ github state</span> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>.     
