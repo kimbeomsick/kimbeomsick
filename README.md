@@ -4,7 +4,7 @@
 
 
 
-
+ Rank
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjatr)](https://solved.ac/rlaqjatr)
 
 <p>
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-https://img.shields.io/badge/-vue.js-green
+![vue.js](https://img.shields.io/badge/-vue.js-green)
 
 
 <!--
