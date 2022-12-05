@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- 뱃지 입력 -->
-![vue.js](https://img.shields.io/badge/-vue.js-white?style=for-the-badge&logo=vue.js&logoColor=white)
+![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white)
 ![vuetify](https://img.shields.io/badge/-vuetify-blue?style=for-the-badge&logo=vuetify&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
