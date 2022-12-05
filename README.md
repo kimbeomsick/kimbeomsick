@@ -13,6 +13,7 @@
 
 * i'm currently learning back-end skills
 
+
 ## Others
 
 <!-- 백준 랭크 -->
@@ -22,13 +23,7 @@
 
 
 <!-- git 사용 현황-->
-<p>
-<span>⏱️ github state</span> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true">
-  <img height="180em" width="300em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compac">
-  
- 
-</p>
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true&bg_color=011c2c,033053,033761&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact">
