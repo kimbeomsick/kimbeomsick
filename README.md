@@ -25,7 +25,7 @@
 <p>
 <span>⏱️ github state</span> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compac">
+  <img height="180em" width="300em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compac">
   
  
 </p>
