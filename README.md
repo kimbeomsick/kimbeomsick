@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=vue.js)
+![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=html)
 
 
 <!--
