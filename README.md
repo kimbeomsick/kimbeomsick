@@ -20,26 +20,26 @@ hellow I am a growing front and developer.<br/>
 
 <!-- 뱃지 입력 -->
 <strong>✏️ FrameWork</strong> : 
-![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white)
-![react.js](https://img.shields.io/badge/-react.js-blue?style=for-the-badge&logo=react&logoColor=white)
+![vue.js](https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![next.js](https://img.shields.io/badge/-next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![springboot](https://img.shields.io/badge/-springboot-yellowgreen?style=for-the-badge&logo=springboot&logoColor=white)
+![springboot](https://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 <strong>✏️ Library</strong> : 
-![redux-toolkit](https://img.shields.io/badge/-redux-purple?style=for-the-badge&logo=redux&logoColor=white)
-![react-query](https://img.shields.io/badge/-react_query-blue?style=for-the-badge&logo=reactquery&logoColor=white)
-![recoil](https://img.shields.io/badge/-recoil-blue?style=for-the-badge&logo=recoil&logoColor=white)
+![react.js](https://img.shields.io/badge/-react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![redux-toolkit](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![react-query](https://img.shields.io/badge/-react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![recoil](https://img.shields.io/badge/-recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 
 <strong>✏️ Language</strong> : 
-![javascript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=brown)
-![typescript](https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=brown)
+![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=brown)
+![typescript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=brown)
 ![java](https://img.shields.io/badge/-java-brown?style=for-the-badge&logo=java&logoColor=white)
-![mysql](https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<strong>✏️ Tool</strong> : 
-![figma](https://img.shields.io/badge/-figma-white?style=for-the-badge&logo=figma&logoColor=pink)
-![jira](https://img.shields.io/badge/-jira-white?style=for-the-badge&logo=jira&logoColor=blue)
-![notion](https://img.shields.io/badge/-notion-white?style=for-the-badge&logo=notion&logoColor=black)
+<strong>✏️ Tools</strong> : 
+![figma](https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![jira](https://img.shields.io/badge/-jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![notion](https://img.shields.io/badge/-notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 <br/><br/><br/>
 
