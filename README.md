@@ -4,7 +4,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50:4dabf5,100:a82da8&height=300&section=header&text=김범식's_GitHub&fontSize=50&fontColor=FFFFFF)
 
 ## Hi there 👋
-hellow I am a growing front and developer.
+hellow I am a growing front and developer.<br/>
+✉️ kbg7635@naver.com
 <br/><br/>
 [![velog](https://img.shields.io/badge/-tech_blog-green?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@giant_toothpick)
 </div>
@@ -28,6 +29,7 @@ hellow I am a growing front and developer.
 ![recoil](https://img.shields.io/badge/-recoil-blue?style=for-the-badge&logo=recoil&logoColor=white)
 
 ![javascript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=brown)
+![typescript](https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=brown)
 ![java](https://img.shields.io/badge/-java-brown?style=for-the-badge&logo=java&logoColor=white)
 ![mysql](https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
