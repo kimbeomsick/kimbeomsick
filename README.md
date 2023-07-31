@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 hellow I am a growing front and developer.<br/>
-✉️ kbg7635@naver.com
+✉️ email : kbg7635@naver.com
 <br/><br/>
 [![velog](https://img.shields.io/badge/-tech_blog-green?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@giant_toothpick)
 </div>
@@ -19,20 +19,24 @@ hellow I am a growing front and developer.<br/>
 <!-- springboot, react.js, next.js, vue.js, redux-tookit, react-query, recoil, javascript,mysql -->
 
 <!-- 뱃지 입력 -->
+<strong>✏️ FrameWork</strong> : 
 ![vue.js](https://img.shields.io/badge/-vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white)
 ![react.js](https://img.shields.io/badge/-react.js-blue?style=for-the-badge&logo=react&logoColor=white)
 ![next.js](https://img.shields.io/badge/-next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![springboot](https://img.shields.io/badge/-springboot-yellowgreen?style=for-the-badge&logo=springboot&logoColor=white)
 
+<strong>✏️ Library</strong> : 
 ![redux-toolkit](https://img.shields.io/badge/-redux-purple?style=for-the-badge&logo=redux&logoColor=white)
-![react-query](https://img.shields.io/badge/-react_query-blue?style=for-the-badge&logo=react_query&logoColor=white)
+![react-query](https://img.shields.io/badge/-react_query-blue?style=for-the-badge&logo=reactquery&logoColor=white)
 ![recoil](https://img.shields.io/badge/-recoil-blue?style=for-the-badge&logo=recoil&logoColor=white)
 
+<strong>✏️ Language</strong> : 
 ![javascript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=brown)
 ![typescript](https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=brown)
 ![java](https://img.shields.io/badge/-java-brown?style=for-the-badge&logo=java&logoColor=white)
 ![mysql](https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
+<strong>✏️ Tool</strong> : 
 ![figma](https://img.shields.io/badge/-figma-white?style=for-the-badge&logo=figma&logoColor=pink)
 ![jira](https://img.shields.io/badge/-jira-white?style=for-the-badge&logo=jira&logoColor=blue)
 ![notion](https://img.shields.io/badge/-notion-white?style=for-the-badge&logo=notion&logoColor=black)
