@@ -4,7 +4,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50:4dabf5,100:a82da8&height=300&section=header&text=김범식's_GitHub&fontSize=50&fontColor=FFFFFF)
 
 ## Hi there 👋
-hellow I am a growing front and developer.<br/>
+"hellow I am a growing frontend developer!"
+<br/>
 ✉️ email : kbg7635@naver.com
 <br/><br/>
 [![velog](https://img.shields.io/badge/-tech_blog-green?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@giant_toothpick)
