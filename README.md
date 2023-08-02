@@ -48,22 +48,25 @@
 
 <div align="center">
   
-## Others  
+
 
 <!-- 백준 랭크 -->
-🏅 solved.ac Rank<br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjatr)](https://solved.ac/rlaqjatr)  </div>
-
+## 🏆 solved.ac Rank<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjatr)](https://solved.ac/rlaqjatr) 
+</div>
+<br/><br/><br/>
 
 
 <!-- git 사용 현황-->
-
+<div align="center">
+  
+## ⏱️ Git Status <br/>
 <p align="center">
-  <span>⏱️ Git Status</span><br/>
+  
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kimbeomsick&show_icons=true&include_all_commits=true&bg_color=011c2c,033053,033761&title_color=fff&text_color=fff">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomsick&layout=compact">
 </p>
-
+</div>
 
 
 
