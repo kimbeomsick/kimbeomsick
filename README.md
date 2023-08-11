@@ -8,7 +8,7 @@
 <br/>
 ✉️ email : kbg7635@naver.com
 <br/><br/>
-[![velog](https://img.shields.io/badge/-tech_blog-green?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@giant_toothpick)
+✏️ 기술블로그 : [![velog](https://img.shields.io/badge/-tech_blog-green?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@giant_toothpick)
 </div>
 <br/><br/><br/>
 
